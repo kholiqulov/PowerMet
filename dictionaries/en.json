@@ -1,0 +1,115 @@
+{
+    "title": "OWERFUL INDUSTRIAL DIESEL GENERATORS",
+    "toast": {
+        "success": "Successfully!",
+        "error": "Error",
+        "not_found": "No items found"
+    },
+    "header": {
+        "catalog": "CATALOG",
+        "service": "SERVICES",
+        "about": "ABOUT US",
+        "partner": "PARTNERS",
+        "contact": "Contacts",
+        "consultation": "Consultation",
+        "search": "Search",
+        "modal": {
+            "title": "Want to get a free consultation?",
+            "placeholder": "Phone number",
+            "send": "Send",
+            "call": "or call the number",
+            "text": "After receiving the application, our specialist will contact you"
+        }
+    },
+    "hero": {
+        "title": "POWERFUL INDUSTRIAL DIESEL GENERATORS ARE YOUR KEY TO RELIABLE POWER!",
+        "text": "Power Met International are experts in importing and installing generator systems to keep your business running smoothly.",
+        "link": "Catalog"
+    },
+    "factory": {
+        "title": "About us",
+        "text": "JV LLC POWER MET INTERNATIONAL is your reliable partner in the field of industrial diesel generators. We import and supply more than 8 leading manufacturing brands, including Shanghai, Volvo, Weichai, Baudouin, Ella, Perkins. Our range starts from 3 kVA and goes up to 2500 kVA and above. We provide complete solutions including consultation, installation, maintenance and spare parts. We cooperate with Kazakhstan, Tajikistan, Kyrgyzstan and Turkey. Provide reliable energy supply for your business with POWER MET INTERNATIONA",
+        "link": "Read more"
+    },
+    "catalog": {
+        "title": "Our catalog",
+        "text": "All generators are supplied in a noise-canceling case",
+        "model": "Model",
+        "fuel_type": "Fuel type",
+        "power": "Power",
+        "output_power": "Max.Total Output Power",
+        "in_detail": "In detail",
+        "cylinder": "Cylinder volume",
+        "ampere": "Ampere",
+        "regulator_type": "Regulator type",
+        "download": "Download",
+        "frequency": "Frequency",
+        "max_power": "Maximum power",
+        "cubic_capacity": "Cubic capacity",
+        "power_pev": "Power / Pev"
+    },
+    "design": {
+        "title": "Patented design cabin.",
+        "text": "Soundproofing and field mounting of cabin-equipped generators ensures reliable and quiet operation of the engine, avoiding the high noise level that occurs during engine operation."
+    },
+    "partner": {
+        "title": "Our partners"
+    },
+    "footer": {
+        "home": "Home",
+        "catalog": "Our catalog",
+        "service": "Our service",
+        "about": "About us",
+        "submit": "Submit your application",
+        "partner": "Our partners",
+        "contact": "Contacts",
+        "address": "Address",
+        "address_text": "Taras shevchenko street",
+        "mail": "Mail",
+        "consultation_title": "Get a free consultation",
+        "placeholder": "Phone number",
+        "send": "Send"
+    },
+    "hero_catalog": {
+        "home": "Home",
+        "link": "Catalog",
+        "title": "FULL CATALOG OF ALL GENERATORS AND MANUFACTURERS",
+        "text": "On this page you can see all the information on the filters and also download the pdf of each generator",
+        "type": "MANUFACTURERS"
+    },
+    "hero_service": {
+        "link": "Services",
+        "title": "OUR CAMPAIGN SERVICES",
+        "text": "On this page you have the opportunity to get acquainted with all the services of Power Met International"
+    },
+    "hero_about": {
+        "link": "About us",
+        "title": "About Us",
+        "text": "Our campaign provides services such as the sale and installation of generators in any assortment.",
+        "documentation": "Documentation",
+        "numbers": {
+            "title": "About our company",
+            "sub_text": "JV POWERMET International LLC was founded in 2007 and takes an integrated approach to solving the problems of creating complete systems for generating, converting and distributing electricity for any consumers with power and lighting loads. JV POWERMET International LLC is engaged in the sale of energy products. The company is constantly developing in terms of product range and sales region. Today, our products are in demand in many regions of Uzbekistan. We offer: - diesel generators of the NW series from 10 to 1000 kW, at the price of the manufacturer, from a warehouse in Tashkent and on order. -diesel generators  NW series with power from 6 to 2500 kW, based on PERKINS RICARDO engines manufactured in Great Britain. These power plants are of high quality along with a cost comparable to domestically produced stations. The resource is 40,000 hours. - diesel generators and gasoline generators of the NEW POWER, GEKOM, EMSA, KEYPOWER, ELAD series from 4.2 to 80 kW with domestic and Japanese engines, as well as SDMO, Vepr, GENPOWER, REAL, LISTER PETTER. - uninterruptible power supplies of the “GEKOM” series with power from 10 to 300 kVA. Our clients are such organizations and banks as: - United Directorate of buildings and structures under construction UDAP RUZ. (station with a capacity of 1000 kW, 200 kW and 100 kW) - SMNU-12 (station 100 kW) - National Bank of Uzbekistan, Khamza branch of Tashkent (station 60 kW and two UPS with a capacity of 20 kW) - HOUSE OF THE MIA OF THE RUZ. Tashkent (station 100 kW and UPS 65 kW) - Ministry of Internal Affairs of the Republic of Uzbekistan 'Interpol' (station 75 kW) - Central OVIR Tashkent (station 100 kW) - Bank 'Qishloq Qurilish', regional branches (station 6 kW) - 'TRUSTBANK', Tashkent (station 15 kW) - 'AGROBANK' Samarkand (station 100 kW)   and many other organizations. All products have certificates of quality, conformity and origin, as well as a manufacturer’s guarantee.",
+            "text_1": "Our campaign imports over 140 models of industrial diesel generators",
+            "text_2": "Our campaign cooperates with more than 8 brands - manufacturers of industrial diesel generators",
+            "text_3": "Our company has been importing and installing industrial diesel generators for over 10 years"
+        }
+    },
+    "hero_partner": {
+        "link": "Our partners",
+        "title": "MORE THAN 7 SUPPLIERS WORK WITH US",
+        "text": "Here you can get acquainted with each of the suppliers",
+        "part": {
+            "title": "Our partners",
+            "head": "WHO DO WE WORK WITH?",
+            "text": "Our firm is proud to partner with the best manufacturers of industrial generators. As a leading importer, our company introduces their products to the market. We strive to offer our customers only the best generators, providing a reliable and efficient power supply in various industries and areas of activity.",
+            "link": "View catalog"
+        }
+    },
+    "hero_contact": {
+        "link": "Contacts",
+        "title": "ALWAYS TO CONTACT US 24/7",
+        "text": "We provide 24/7 support to our customers",
+        "address": "Taras shevchenko street.34.Tashkent,Mirabad Uzbekistan"
+    }
+}

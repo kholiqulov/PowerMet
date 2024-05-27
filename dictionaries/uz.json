@@ -1,0 +1,115 @@
+{
+    "title": "KUCHLI SANOAT DIZEL GENERATORLARI",
+    "toast": {
+        "success": "Muvaffaqiyatli yuborildi!",
+        "error": "Xatolik yuz berdi",
+        "not_found": "Hech narsa topilmadi"
+    },
+    "header": {
+        "catalog": "KATALOG",
+        "service": "XIZMATLAR",
+        "about": "BIZ HAQIMIZDA",
+        "partner": "HAMKORLIK",
+        "contact": "Aloqa",
+        "consultation": "Konsultatsiya",
+        "search": "Qidirish",
+        "modal": {
+            "title": "Ariza qabul qilingandan so'ng, bizning mutaxassisimiz siz bilan bog'lanadi",
+            "placeholder": "Telefon nomer",
+            "send": "Jo'natish",
+            "call": "yoki shu nomerga telefon qiling",
+            "text": "Murojaat qabul qilingandan so'ng mutaxassisimiz siz bilan bog'lanadi"
+        }
+    },
+    "hero": {
+        "title": "KUCHLI SANOAT DIZEL GENERATORLARI - SIZNING ISHLAB CHIQARILGAN KUCHGA SOLADI!",
+        "text": "Power Met International sizning biznesingiz muammosiz ishlashi uchun generator tizimlarini import qilish va o'rnatish bo'yicha mutaxassislardir.",
+        "link": "Katalog"
+    },
+    "factory": {
+        "title": "Biz haqimizda",
+        "text": "“POWER MET INTERNATIONAL” MChJ QK sanoat dizel generatorlari sohasida sizning ishonchli hamkoringizdir. Biz Shanxay, Volvo, Weichai, Baudouin, Ella, Perkins kabi 8 dan ortiq yetakchi ishlab chiqarish brendlarini import qilamiz va yetkazib beramiz. Bizning diapazonimiz 3 kVA dan boshlanadi va 2500 kVA va undan yuqoriga etadi. Biz maslahat, o'rnatish, texnik xizmat ko'rsatish va ehtiyot qismlarni o'z ichiga olgan to'liq echimlarni taqdim etamiz. Qozog‘iston, Tojikiston, Qirg‘iziston va Turkiya bilan hamkorlik qilamiz. POWER MET INTERNATIONA bilan biznesingizni ishonchli energiya bilan ta'minlang",
+        "link": "Ko'proq o'qish"
+    },
+    "catalog": {
+        "title": "Bizning katalog",
+        "text": "Barcha generatorlar shovqinni o'chirish qutisida ta'minlanadi",
+        "model": "Model",
+        "fuel_type": "Yoqilg'i turi",
+        "power": "Kuch",
+        "output_power": "Maksimal umumiy chiqish quvvati",
+        "in_detail": "Batafsil",
+        "cylinder": "Silindr hajmi",
+        "ampere": "Amper",
+        "regulator_type": "Regulyator turi",
+        "download": "Yuklab olish",
+        "frequency": "Chastotasi",
+        "max_power": "Maksimal quvvat",
+        "cubic_capacity": "Kub hajmi",
+        "power_pev": "Quvvat / Pev"
+    },
+    "design": {
+        "title": "Patentlangan kabina dizayni",
+        "text": "Kabina bilan jihozlangan generatorlarning ovoz o'tkazmasligi va maydonchaga o'rnatilishi dvigatelning ishlashi paytida yuzaga keladigan yuqori shovqin darajasidan qochib, dvigatelning ishonchli va jim ishlashini ta'minlaydi."
+    },
+    "partner": {
+        "title": "Bizning hamkorlar"
+    },
+    "footer": {
+        "home": "Bosh sahifa",
+        "catalog": "Bizning katalog",
+        "service": "Bizning servis",
+        "about": "Biz haqimizda",
+        "submit": "Arizangizni yuborish",
+        "partner": "Bizning hamkorlar",
+        "contact": "Aloqa",
+        "address": "Manzil",
+        "address_text": "Taras Shevchenko ko'chasi",
+        "mail": "Pochta",
+        "consultation_title": "Bepul maslahat olish",
+        "placeholder": "Telefon raqamingiz",
+        "send": "Jo'natish"
+    },
+    "hero_catalog": {
+        "home": "Bosh sahifa",
+        "link": "Katalog",
+        "title": "BARCHA GENERATOR VA ISHLAB CHIQARISHCHILARNING TO'LIQ KATALOGI",
+        "text": "Ushbu sahifada siz filtrlar bo'yicha barcha ma'lumotlarni ko'rishingiz va har bir generatorning pdf faylini yuklab olishingiz mumkin",
+        "type": "ISHLAB CHIQARUVCHILAR"
+    },
+    "hero_service": {
+        "link": "Xizmatlar",
+        "title": "AKSIYA XIZMATLARIMIZ",
+        "text": "Ushbu sahifada siz Power Met International kompaniyasining barcha xizmatlari bilan tanishish imkoniga egasiz"
+    },
+    "hero_about": {
+        "link": "Biz haqimizda",
+        "title": "Biz haqimizda",
+        "text": "Bizning aksiyamiz har qanday assortimentdagi generatorlarni sotish va o'rnatish kabi xizmatlarni taqdim etadi.",
+        "documentation": "Hujjatlar",
+        "numbers": {
+            "title": "Bizning kompaniya haqida",
+            "sub_text": "'POWERMET International' MChJ QK 2007 yilda tashkil etilgan bo'lib, quvvat va yorug'lik yuklari bo'lgan har qanday iste'molchilar uchun elektr energiyasini ishlab chiqarish, konvertatsiya qilish va taqsimlash uchun to'liq tizimlarni yaratish muammolarini hal qilishda kompleks yondashuvni qo'llaydi. POWERMET International MChJ QK energetika mahsulotlarini sotish bilan shug'ullanadi. Kompaniya mahsulot assortimenti va savdo hududi bo'yicha doimiy ravishda rivojlanib bormoqda. Bugungi kunda mahsulotlarimiz O‘zbekistonning ko‘plab hududlarida xaridorgir. Biz taklif qilamiz: - NW seriyali 10 dan 1000 kVt gacha bo'lgan dizel generatorlari ishlab chiqaruvchining narxida, Toshkent shahridagi ombordan va buyurtma bo'yicha. -Buyuk Britaniyada ishlab chiqarilgan PERKINS RICARDO dvigatellari asosidagi quvvati 6 dan 2500 kVt gacha bo'lgan NW seriyali dizel generatorlari. Ushbu elektr stansiyalari yuqori sifatga ega va narxi mahalliy ishlab chiqarilgan stansiyalar bilan taqqoslanadigan. Resurs - 40 000 soat. - mahalliy va yapon dvigatellari bilan 4,2 dan 80 kVt gacha bo'lgan NEW POWER, GEKOM, EMSA, KEYPOWER, ELAD seriyali dizel generatorlari va benzin generatorlari, shuningdek, SDMO, Vepr, GENPOWER, REAL, LISTER PETTER. - 10 dan 300 kVA gacha quvvatga ega “GEKOM” seriyali uzluksiz quvvat manbalari. Bizning mijozlarimiz quyidagi tashkilotlar va banklardir: - UDAP RUZ qurilayotgan binolar va inshootlarning Birlashgan boshqarmasi. (1000 kVt, 200 kVt va 100 kVt quvvatga ega stansiya) - SMNU-12 (stansiya 100 kVt) - O'zbekiston Milliy banki, Toshkent shahar Xamza filiali (stansiyasi 60 kVt va ikkita UPS quvvati 20 kVt) - UY O'ZBEKISTON IIV. Toshkent (stansiyasi 100 kVt va UPS 65 kVt) – O‘zbekiston Respublikasi Ichki ishlar vazirligi “Interpol” (stansiyasi 75 kVt) – Toshkent OVIR Markaziy (stansiyasi 100 kVt) – “Qishloq qurilish” banki, hududiy filiallari (stansiyasi 6 kVt). ) - 'TRASTBANK', Toshkent (stansiya 15 kVt) - 'AGROBANK' Samarqand (stansiyasi 100 kVt)   va boshqa koʻplab tashkilotlar. Barcha mahsulotlar sifat, muvofiqlik va kelib chiqish sertifikatlariga, shuningdek ishlab chiqaruvchining kafolatiga ega.",
+            "text_1": "Bizning kampaniyamiz 140 dan ortiq sanoat dizel generatorlarini import qiladi",
+            "text_2": "Bizning aksiyamiz 8 dan ortiq brendlar - sanoat dizel generatorlari ishlab chiqaruvchilari bilan hamkorlik qiladi",
+            "text_3": "Kompaniyamiz 10 yildan ortiq vaqtdan beri sanoat dizel generatorlarini import qiladi va o'rnatadi"
+        }
+    },
+    "hero_partner": {
+        "link": "Bizning hamkorlar",
+        "title": "BIZ BILAN 7 DAN ORQAGI TA'MINOTCHILAR ISHLAYDI",
+        "text": "Bu erda siz etkazib beruvchilarning har biri bilan tanishishingiz mumkin",
+        "part": {
+            "title": "Bizning hamkorlarimiz",
+            "head": "BIZ KIM BILAN ISHLASHAMIZ?",
+            "text": "Firmamız eng yaxshi sanoat generatorlari ishlab chiqaruvchilari bilan hamkorlik qilishdan faxrlanadi. Kompaniyamiz yetakchi importyor sifatida o‘z mahsulotlarini bozorga taqdim etadi. Biz mijozlarimizga turli sanoat va faoliyat sohalarida ishonchli va samarali elektr ta'minotini ta'minlovchi eng yaxshi generatorlarni taklif qilishga.",
+            "link": "Katalogni ko'rish"
+        }
+    },
+    "hero_contact": {
+        "link": "Aloqalar",
+        "title": "BIZGA 24/7 BOG'LANISH UCHUN HAMMA YO'LLARI",
+        "text": "Biz mijozlarimizga 24/7 yordam beramiz",
+        "address": "Taras Shevchenko ko'chasi 34. Toshkent, Mirobod O'zbekiston"
+    }
+}
